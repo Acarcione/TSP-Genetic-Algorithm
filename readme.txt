@@ -2,7 +2,6 @@ Adam Carcione
 12/10/18
 
 Files Included:
-
 GA_TSP.py
 10Cit.txt
 17Cit.txt
@@ -12,7 +11,6 @@ readme.txt
 Report.pdf
 
 How to run:
-
 --GA_TSP.py--
 To run GA_TSP.py, execute:
 
